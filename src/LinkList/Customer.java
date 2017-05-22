@@ -4,7 +4,7 @@ import java.util.AbstractList;
 
 /**
  * Created by nathan on 4/29/2017.
- * ntm160030
+
  */
 public class Customer { //holds orders username and password
     String username;
