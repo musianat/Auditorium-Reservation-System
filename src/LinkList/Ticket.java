@@ -2,7 +2,7 @@ package LinkList;
 
 /**
  * Created by nathan on 4/15/2017.
- * ntm160030
+
  */
 public class Ticket { //hold ticket information
     String type;
