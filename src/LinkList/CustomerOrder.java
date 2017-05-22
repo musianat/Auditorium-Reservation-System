@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * Created by nathan on 4/15/2017.
- * ntm160030
+
  */
 public class CustomerOrder { //holds tickets
     ArrayList<Ticket> seats;
