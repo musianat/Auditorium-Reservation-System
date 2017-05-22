@@ -7,10 +7,7 @@ import java.util.*;
 /**
  * Created by nathan on 4/30/2017.
  *Nathan Musial
- * ntm160030
- * project 5
- * 388-442 recursive function
- * 161-163 recursive function call
+
  */
 
 
