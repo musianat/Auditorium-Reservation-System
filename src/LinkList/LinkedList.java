@@ -3,7 +3,7 @@ package LinkList;
 /**
  * Created by nathan on 3/19/2017.
  * Nathan Musial
- * ntm160030
+ 
  */
 public class LinkedList {
 
