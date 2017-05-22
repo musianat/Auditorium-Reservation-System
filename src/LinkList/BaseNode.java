@@ -3,7 +3,7 @@ package LinkList;
 /**
  * Created by nathan on 3/22/2017.
  * Nathan Musial
- * ntm160030
+
  */
 public class BaseNode {
     int row;
